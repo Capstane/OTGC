@@ -1,0 +1,37 @@
+{
+	"compiler": {
+		"version": "0.5.17+commit.d19bba13"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"OpenTelegram.sol": "SafeMath"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"OpenTelegram.sol": {
+			"keccak256": "0x9ac2456c47ae535b34d2e94cecd6dede643a16e6fb2a2ccb1ea00c43f009e916",
+			"urls": [
+				"bzz-raw://0c3dff52c88a1b9bdfe0ca978cb7bd82df9aea2052bb483a88746ba3f7a63ade",
+				"dweb:/ipfs/Qmaak5jLA55yhJqgJ9o4mgv8ReDyzS9UnwV885K7cjUyXw"
+			]
+		}
+	},
+	"version": 1
+}
